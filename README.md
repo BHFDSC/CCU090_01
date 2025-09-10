@@ -2,7 +2,9 @@
 
 ## Project description
 
-Description will be added here.
+Patient characteristics, clinical practice and policy, and the impact of the COVID-19 pandemic are likely contributing to the low rates of cardiac rehabilitation (CR) attendance among transcatheter aortic valve implantation (TAVI) patients. There is true equipoise regarding the feasibility and value of CR in this setting, and the justification to resource such a service in this challenging group. The lack of sufficient evidence characterizing the current state of CR participation and supporting these associations makes it challenging to drive changes in clinical practice and shape informed policy decisions.
+
+Accordingly, the primary objective of this project is to analyse and characterise CR attendance following TAVI procedures across England, both before and after the pandemic. In addition, the study will assess the factors associated with CR participation. Lastly, the project will examine the associated outcomes of exposure to CR in TAVI patients, with the aim of determining whether there is an associated benefit, particularly given their vulnerability, frailty, and higher burden of comorbidities.
 
 ## How to cite this work
 > Citation details to follow
