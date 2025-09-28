@@ -1,0 +1,169 @@
+name,terminology,code,term,subtype
+HF,ICD10,I50.0,Congestive heart failure,not_HFrEF
+HF,ICD10,I50.1,Left ventricular failure,not_HFrEF
+HF,ICD10,I50.9,"Heart failure, unspecified",not_HFrEF
+HF,ICD10,I42.0,Dilated cardiomyopathy (Congestive cardiomyopathy),HFrEF
+HF,ICD10,I42.9,"Cardiomyopathy, unspecified (Cardiomyopathy (primary) (secondary) NOS)",not_HFrEF
+HF,ICD10,I11.0,Hypertensive heart disease with (congestive) heart failure,not_HFrEF
+HF,ICD10,I25.5,Ischaemic cardiomyopathy,HFrEF
+HF,ICD10,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure ,not_HFrEF
+HF,ICD10,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,not_HFrEF
+CM,ICD10,I25.5,Ischaemic cardiomyopathy,HFrEF
+CM,ICD10,I43,Cardiomyopathy in diseases classified elsewhere,not_HFrEF
+CM,ICD10,O90.3,Cardiomyopathy in the puerperium,not_HFrEF
+CM,ICD10,I42.0,Dilated cardiomyopathy,HFrEF
+CM,ICD10,I42.1,Obstructive hypertrophic cardiomyopathy,not_HFrEF
+CM,ICD10,I42.2,Other hypertrophic cardiomyopathy,not_HFrEF
+CM,ICD10,I42.3,Endomyocardial (eosinophilic) disease,not_HFrEF
+CM,ICD10,I42.4,Endocardial fibroelastosis,not_HFrEF
+CM,ICD10,I42.5,Other restrictive cardiomyopathy,not_HFrEF
+CM,ICD10,I42.6,Alcoholic cardiomyopathy,HFrEF
+CM,ICD10,I42.7,Cardiomyopathy due to drug and external agent,not_HFrEF
+CM,ICD10,I42.8,Other cardiomyopathies,not_HFrEF
+CM,ICD10,I42.9,"Cardiomyopathy, unspecified",not_HFrEF
+CAD,ICD10,I20.0,Unstable angina,Unstable angina
+CAD,ICD10,I20.1,Angina pectoris with documented spasm,Angina
+CAD,ICD10,I20.8,Other forms of angina pectoris,Angina
+CAD,ICD10,I20.9,"Angina pectoris, unspecified",Angina
+CAD,ICD10,I21,Acute myocardial infarction,MI
+CAD,ICD10,I21.0,Acute transmural myocardial infarction of anterior wall,MI
+CAD,ICD10,I21.1,Acute transmural myocardial infarction of inferior wall,MI
+CAD,ICD10,I21.2,Acute transmural myocardial infarction of other sites,MI
+CAD,ICD10,I21.3,Acute transmural myocardial infarction of unspecified site,MI
+CAD,ICD10,I21.4,Acute subendocardial myocardial infarction,MI
+CAD,ICD10,I21.9,"Acute myocardial infarction, unspecified",MI
+CAD,ICD10,I22,Subsequent myocardial infarction,MI
+CAD,ICD10,I22.0,Subsequent myocardial infarction of anterior wall,MI
+CAD,ICD10,I22.1,Subsequent myocardial infarction of inferior wall,MI
+CAD,ICD10,I22.8,Subsequent myocardial infarction of other sites,MI
+CAD,ICD10,I22.9,Subsequent myocardial infarction of unspecified site,MI
+CAD,ICD10,I23,Certain current complications following acute myocardial infarction,MI
+CAD,ICD10,I23.0,Haemopericardium as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.1,Atrial septal defect as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.2,Ventricular septal defect as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.3,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.4,Rupture of chordae tendineae as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.5,Rupture of papillary muscle as current complication following acute myocardial infarction,MI
+CAD,ICD10,I23.6,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",MI
+CAD,ICD10,I23.8,Other current complications following acute myocardial infarction,MI
+CAD,ICD10,I24,Other acute ischaemic heart diseases,other_CAD
+CAD,ICD10,I24.0,Coronary thrombosis not resulting in myocardial infarction,other_CAD
+CAD,ICD10,I24.1,Dressler syndrome,other_CAD
+CAD,ICD10,I24.8,Other forms of acute ischaemic heart disease,other_CAD
+CAD,ICD10,I24.9,"Acute ischaemic heart disease, unspecified",other_CAD
+CAD,ICD10,I25.0,"Atherosclerotic cardiovascular disease, so described",other_CAD
+CAD,ICD10,I25.1,Atherosclerotic heart disease,other_CAD
+CAD,ICD10,I25.2,Old myocardial infarction,MI
+CAD,ICD10,I25.4,Coronary artery aneurysm and dissection,CADISS
+CAD,ICD10,I25.5,Ischaemic cardiomyopathy,other_CAD
+CAD,ICD10,I25.6,Silent myocardial ischaemia,other_CAD
+CAD,ICD10,I25.8,Other forms of chronic ischaemic heart disease,other_CAD
+CAD,ICD10,I25.9,"Chronic ischaemic heart disease, unspecified",other_CAD
+CAD,ICD10,T82.2,Mechanical complication of coronary artery bypass and valve grafts,other_CAD
+CAD,ICD10,Z95.1,Presence of aortocoronary bypass graft,other_CAD
+CAD,ICD10,I25.10,Atherosclerotic heart disease of unspecified vessel,CAD
+CAD,ICD10,I25.11,Atherosclerotic heart disease of native coronary artery,CAD
+CAD,ICD10,I25.12,Atherosclerotic heart disease of autologous bypass graft,CAD
+CAD,ICD10,I25.13,Atherosclerotic heart disease of nonautologous bypass graft,CAD
+VHD,ICD10,I35,Nonrheumatic aortic valve disorders,no_metallic_valve
+VHD,ICD10,I35.0,Aortic (valve) stenosis,no_metallic_valve
+VHD,ICD10,I35.1,Aortic (valve) insufficiency,no_metallic_valve
+VHD,ICD10,I35.2,Aortic (valve) stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I35.8,Other aortic valve disorders,no_metallic_valve
+VHD,ICD10,I35.9,Aortic valve disorder unspecified,no_metallic_valve
+VHD,ICD10,I05,Rheumatic mitral valve diseases,no_metallic_valve
+VHD,ICD10,I05.0,Mitral stenosis,no_metallic_valve
+VHD,ICD10,I05.1,Rheumatic mitral insufficiency,no_metallic_valve
+VHD,ICD10,I05.2,Mitral stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I05.8,Other mitral valve diseases,no_metallic_valve
+VHD,ICD10,I05.9,Mitral valve disease unspecified,no_metallic_valve
+VHD,ICD10,I06,Rheumatic aortic valve diseases,no_metallic_valve
+VHD,ICD10,I06.0,Rheumatic aortic stenosis,no_metallic_valve
+VHD,ICD10,I06.1,Rheumatic aortic insufficiency,no_metallic_valve
+VHD,ICD10,I06.2,Rheumatic aortic stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I06.8,Other rheumatic aortic valve diseases,no_metallic_valve
+VHD,ICD10,I06.9,Rheumatic aortic valve disease unspecified,no_metallic_valve
+VHD,ICD10,I07,Rheumatic tricuspid valve diseases,no_metallic_valve
+VHD,ICD10,I07.0,Tricuspid stenosis,no_metallic_valve
+VHD,ICD10,I07.1,Tricuspid insufficiency,no_metallic_valve
+VHD,ICD10,I07.2,Tricuspid stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I07.8,Other tricuspid valve diseases,no_metallic_valve
+VHD,ICD10,I07.9,Tricuspid valve disease unspecified,no_metallic_valve
+VHD,ICD10,I08,Multiple valve diseases,no_metallic_valve
+VHD,ICD10,I08.0,Disorders of both mitral and aortic valves,no_metallic_valve
+VHD,ICD10,I08.1,Disorders of both mitral and tricuspid valves,no_metallic_valve
+VHD,ICD10,I08.2,Disorders of both aortic and tricuspid valves,no_metallic_valve
+VHD,ICD10,I08.3,"Combined disorders of mitral, aortic and tricuspid valves",no_metallic_valve
+VHD,ICD10,I08.8,Other multiple valve diseases,no_metallic_valve
+VHD,ICD10,I08.9,Multiple valve disease unspecified,no_metallic_valve
+VHD,ICD10,I34,Nonrheumatic mitral valve disorders,no_metallic_valve
+VHD,ICD10,I34.0,Mitral (valve) insufficiency,no_metallic_valve
+VHD,ICD10,I34.1,Mitral (valve) prolapse,no_metallic_valve
+VHD,ICD10,I34.2,Nonrheumatic mitral (valve) stenosis,no_metallic_valve
+VHD,ICD10,I34.8,Other nonrheumatic mitral valve disorders,no_metallic_valve
+VHD,ICD10,I34.9,Nonrheumatic mitral valve disorder unspecified,no_metallic_valve
+VHD,ICD10,I36,Nonrheumatic tricuspid valve disorders,no_metallic_valve
+VHD,ICD10,I36.0,Nonrheumatic tricuspid (valve) stenosis,no_metallic_valve
+VHD,ICD10,I36.1,Nonrheumatic tricuspid (valve) insufficiency,no_metallic_valve
+VHD,ICD10,I36.2,Nonrheumatic tricuspid (valve) stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I36.8,Other nonrheumatic tricuspid valve disorders,no_metallic_valve
+VHD,ICD10,I36.9,Nonrheumatic tricuspid valve disorder unspecified,no_metallic_valve
+VHD,ICD10,I37,Pulmonary valve disorders,no_metallic_valve
+VHD,ICD10,I37.0,Pulmonary valve stenosis,no_metallic_valve
+VHD,ICD10,I37.1,Pulmonary valve insufficiency,no_metallic_valve
+VHD,ICD10,I37.2,Pulmonary valve stenosis with insufficiency,no_metallic_valve
+VHD,ICD10,I37.8,Other pulmonary valve disorders,no_metallic_valve
+VHD,ICD10,I37.9,Pulmonary valve disorder unspecified,no_metallic_valve
+VHD,ICD10,I38,"Endocarditis, valve unspecified",no_metallic_valve
+VHD,ICD10,I39.0,Mitral valve disorders in diseases classified elsewhere,no_metallic_valve
+VHD,ICD10,I39.1,Aortic valve disorders in diseases classified elsewhere,no_metallic_valve
+VHD,ICD10,I39.2,Tricuspid valve disorders in diseases classified elsewhere,no_metallic_valve
+VHD,ICD10,I39.3,Pulmonary valve disorders in diseases classified elsewhere,no_metallic_valve
+VHD,ICD10,I39.4,Multiple valve disorders in diseases classified elsewhere,no_metallic_valve
+VHD,ICD10,I39.8,"Endocarditis, valve unspecified, in diseases classified elsewhere",no_metallic_valve
+VHD,ICD10,B37.6,Candidal endocarditis,no_metallic_valve
+VHD,ICD10,Q22.0,Pulmonary valve atresia,no_metallic_valve
+VHD,ICD10,T82.0,Mechanical complication of heart valve prosthesis,no_metallic_valve
+VHD,ICD10,T82.6,Infection and inflammatory reaction due to cardiac valve prosthesis,no_metallic_valve
+VHD,ICD10,Z95.2,Presence of prosthetic heart valve,no_metallic_valve
+VHD,ICD10,Z95.3,Presence of xenogenic heart valve,no_metallic_valve
+VHD,ICD10,Z95.4,Presence of other heart-valve replacement,no_metallic_valve
+ARR,ICD10,I48,Atrial fibrillation and flutter,not_VT_or_VF
+ARR,ICD10,I48.0,Paroxysmal atrial fibrillation,not_VT_or_VF
+ARR,ICD10,I48.1,Persistent atrial fibrillation,not_VT_or_VF
+ARR,ICD10,I48.2,Chronic atrial fibrillation,not_VT_or_VF
+ARR,ICD10,I48.3,Typical atrial flutter,not_VT_or_VF
+ARR,ICD10,I48.4,Atypical atrial flutter,not_VT_or_VF
+ARR,ICD10,I48.9,"Atrial fibrillation and atrial flutter, unspecified",not_VT_or_VF
+MC,ICD10,I40,Acute myocarditis,NA
+MC,ICD10,I40.0,Infective myocarditis,NA
+MC,ICD10,I40.1,Isolated myocarditis,NA
+MC,ICD10,I40.8,Other acute myocarditis,NA
+MC,ICD10,I40.9,"Acute myocarditis, unspecified",NA
+MC,ICD10,I41,Myocarditis in diseases classified elsewhere,NA
+MC,ICD10,I41.0,Myocarditis in bacterial diseases classified elsewhere,NA
+MC,ICD10,I41.1,Myocarditis in viral diseases classified elsewhere,NA
+MC,ICD10,I41.2,Myocarditis in other infectious and parasitic diseases classified elsewhere,NA
+MC,ICD10,I41.8,Myocarditis in other diseases classified elsewhere,NA
+MC,ICD10,I09.0,Rheumatic myocarditis,NA
+MC,ICD10,I51.4,"Myocarditis, unspecified",NA
+PC,ICD10,I01.0,Acute rheumatic pericarditis,NA
+PC,ICD10,I30,Acute pericarditis,NA
+PC,ICD10,I30.0,Acute nonspecific idiopathic pericarditis,NA
+PC,ICD10,I30.1,Infective pericarditis,NA
+PC,ICD10,I30.8,Other forms of acute pericarditis,NA
+PC,ICD10,I30.9,"Acute pericarditis, unspecified",NA
+PC,ICD10,I32,Pericarditis in diseases classified elsewhere,NA
+PC,ICD10,I32.0,Pericarditis in bacterial diseases classified elsewhere,NA
+PC,ICD10,I32.1,Pericarditis in other infectious and parasitic diseases classified elsewhere,NA
+PC,ICD10,I32.8,Pericarditis in other diseases classified elsewhere,NA
+HCD,ICD10,I11,Hypertensive heart disease,NA
+HCD,ICD10,I11.0,Hypertensive heart disease with (congestive) heart failure,NA
+HCD,ICD10,I11.9,Hypertensive heart disease without (congestive) heart failure,NA
+HCD,ICD10,I13,Hypertensive heart and renal disease,NA
+HCD,ICD10,I13.0,Hypertensive heart and renal disease with (congestive) heart failure,NA
+HCD,ICD10,I13.1,Hypertensive heart and renal disease with renal failure,NA
+HCD,ICD10,I13.2,Hypertensive heart and renal disease with both (congestive) heart failure and renal failure,NA
+HCD,ICD10,I13.9,"Hypertensive heart and renal disease, unspecified",NA
+HCD,ICD10,O10.1,"Pre-existing hypertensive heart disease complicating pregnancy, childbirth and the puerperium",NA
+HCD,ICD10,O10.3,"Pre-existing hypertensive heart and renal disease complicating pregnancy, childbirth and the puerperium",NA
