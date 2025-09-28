@@ -11,7 +11,7 @@ Accordingly, the primary objective of this project is to analyse and characteris
 
 ## Contents
 
-* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU090_01/tree/main/code)
+* [View the analysis code used in NHS England's SDE for England](https://github.com/BHFDSC/CCU090_01/tree/main/code/analysis-code)
 * [View the phenotyping algorithms and codelists used in NHS England's SDE for England](https://github.com/BHFDSC/CCU090_01/tree/main/phenotypes)
 
 ## Project approval
